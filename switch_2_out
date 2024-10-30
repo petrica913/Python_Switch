@@ -1,0 +1,3933 @@
+Initializing the switch
+# Starting switch with id 2
+[INFO] Switch MAC de:fe:c8:ed:02:04
+r-0
+r-1
+rr-0-2
+rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+Received frame of size 42 on interface r-0
+Vlan id este: 2
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2054
+Received frame of size 46 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2054
+Received frame of size 42 on interface r-0
+Vlan id este: 2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 54 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 50 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2048
+Received frame of size 46 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 58 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 66 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 58 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 70 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 62 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 78 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 74 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 70 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 86 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 82 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 78 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 94 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 86 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 86 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 94 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 98 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 94 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 106 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 106 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 114 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 110 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 122 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 106 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 130 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 118 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 114 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 122 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 142 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 122 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 130 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 134 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 134 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 154 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 146 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 142 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 146 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 166 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 154 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 174 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 158 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 158 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 166 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 166 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 186 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 170 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 194 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 178 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 178 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 202 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 182 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 210 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 186 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 190 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 218 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 194 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 194 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 226 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 202 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 202 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 234 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 206 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 214 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 210 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 242 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 218 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 226 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 218 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 250 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 230 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 238 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 226 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 262 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 234 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 250 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 242 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 270 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 242 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 278 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 262 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 254 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 250 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 286 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 258 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 274 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 266 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 266 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 302 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 286 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 278 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 310 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 282 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 290 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 318 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 298 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 290 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 326 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 302 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 298 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 310 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 334 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 306 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 314 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 322 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 314 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 346 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 334 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 326 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 326 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 362 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 346 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 370 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 338 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 342 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 382 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 350 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 358 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 354 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 390 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 362 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 370 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 362 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 402 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 374 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 382 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 374 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 410 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 394 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 386 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 382 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 422 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 406 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 394 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 398 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 438 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 418 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 446 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 410 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 410 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 458 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 422 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 430 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 422 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 466 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 434 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 442 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 430 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 478 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 454 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 442 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 446 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 486 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 450 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 466 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 494 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 458 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 502 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 458 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 466 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 478 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 510 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 474 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 518 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 470 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 490 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 482 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 530 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 490 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 482 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 502 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 498 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 546 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 494 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 514 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 554 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 514 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 562 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 526 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 506 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 522 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 570 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 538 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 530 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 578 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 518 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 550 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 538 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 590 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 530 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 562 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 550 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 598 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 606 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 542 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 614 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 558 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 622 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 574 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 566 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 554 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 634 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 586 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 574 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 642 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 566 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 586 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 598 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 594 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 658 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 578 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 610 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 666 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 610 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 674 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 590 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 622 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 618 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 682 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 602 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 626 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 634 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 634 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 698 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 614 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 646 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 706 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 650 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 626 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 714 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 658 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 658 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 722 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 666 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 638 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 670 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 674 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 734 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 650 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 682 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 686 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 742 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 694 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 694 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 662 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 702 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 754 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 706 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 762 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 714 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 674 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 722 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 730 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 738 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 718 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 746 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 774 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 686 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 730 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 758 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 782 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 766 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 698 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 742 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 774 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 794 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 802 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 710 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 754 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 786 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 794 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 766 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 818 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 722 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 778 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 822 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 830 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 790 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 734 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 834 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 842 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 802 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 846 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 746 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 854 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 814 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 858 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 862 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 758 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 826 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 866 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 874 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 838 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 878 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 770 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 850 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 882 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 886 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 890 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 782 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 862 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 894 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 898 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 794 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 902 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 874 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 906 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 910 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 806 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 914 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 886 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 918 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 926 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 922 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 934 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 930 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 818 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 942 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 898 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 942 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 950 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 830 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 910 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 962 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 954 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 842 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 966 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 922 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 974 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 974 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 854 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 934 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 982 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 986 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 866 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 946 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 994 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 994 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 878 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1002 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 958 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1002 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1010 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1010 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 890 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1018 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 970 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1018 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1026 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 902 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 982 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 914 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1026 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1034 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1034 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 994 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 926 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1042 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1050 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 938 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1006 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1058 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1070 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 950 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1018 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1078 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1074 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 962 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1086 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1082 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1030 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1090 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1094 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 974 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1098 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1042 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1106 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1106 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 986 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1054 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1118 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1114 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 998 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1066 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1126 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1126 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1010 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1078 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1134 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1138 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1022 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1146 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1142 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1090 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1154 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1150 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1162 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1102 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1034 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1158 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1170 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1114 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1166 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1178 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1046 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1174 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1126 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1186 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1182 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1194 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1058 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1138 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1190 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1202 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1070 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1198 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1150 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1210 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1206 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1218 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1162 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1082 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1214 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1174 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1226 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1222 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1094 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1186 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1234 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1230 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1106 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1198 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1242 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1238 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1118 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1250 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1210 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1246 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1130 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1254 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1258 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1222 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1266 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1266 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1142 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1234 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1278 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1282 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1154 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1246 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1298 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1294 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1166 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1258 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1310 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1306 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1178 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1322 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1270 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1318 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1190 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1326 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1334 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1282 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1346 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1294 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1366 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1202 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1306 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1366 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1214 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1318 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1330 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1398 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1390 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1342 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1226 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1406 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1238 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1354 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1422 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1426 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1250 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1366 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1442 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1446 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1262 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1378 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1458 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1454 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1466 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1390 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1462 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1478 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1274 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1474 on interface rr-1-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1402 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1494 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1286 on interface rr-1-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1502 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1414 on interface rr-0-2
+Vlan entry este:  2
+interface type access and interfaceDest_name r-0
+Vlan entry este:  1
+Dropping frame because of VLAN mismatch (2 != 1)
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-1-2
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 33280
+Received frame of size 1490 on interface rr-0-2
+Vlan entry este:  T
+interface type trunk and interfaceDest_name rr-0-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 33280
+Received frame of size 1514 on interface rr-0-2
+Setting up interface: r-0
+Setting up interface: r-1
+Setting up interface: rr-0-2
+Setting up interface: rr-1-2
